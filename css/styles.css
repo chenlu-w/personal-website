@@ -6,7 +6,23 @@ body {
 }
 
 .profile {
-    height: 280px;
+    height: 480px;
+}
+
+.design {
+    float: right;
+    height: 260px;
+    padding-bottom: 100px;
+}
+
+.coding {
+    float: left;
+    height: 300px;
+}
+
+.dancing {
+    float: right;
+    height: 260px;
 }
 
 h1 {
@@ -52,7 +68,8 @@ hr {
 .top-container {
     background-color: #e4f9f5;
     position: relative;
-    padding-top: 100px;
+    padding-top: 180px;
+    padding-bottom: 150px;
 }
 
 .middle-container {
